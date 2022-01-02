@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/SDKishor/3-column-preview-card-component-main)
-- Live Site URL: [live site URL here](https://sdkishor.github.io/3-column-preview-card-component-main/)
+- Solution URL: [solution URL here](https://github.com/SDKishor/faq-accordion-card-main)
+- Live Site URL: [live site URL here](https://sdkishor.github.io/faq-accordion-card-main/)
 
 ## My process
 
